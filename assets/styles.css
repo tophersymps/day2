@@ -4,10 +4,14 @@ body {
     color: #333333;
     margin: 0;
     padding: 0;
+    line-height: 125%;
+}
+
+header {
+    background: #333333;
 }
 
 h1 {
-    background-color: #333333;
     color: #eee;
     font-size: 28px;
     padding: 15px;
@@ -16,6 +20,10 @@ h1 {
 
 h2 {
     font-size: 24px;
+}
+
+a {
+    color: d21034;
 }
 
 .container {
@@ -31,6 +39,7 @@ h2 {
 
 #bio-image {
     width: 200px;
+    height: 200px;
     margin-right: 20px;
 }
 
